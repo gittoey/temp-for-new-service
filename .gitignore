@@ -1,2 +1,3 @@
 .vs/
-bin/
+Service-API/bin/
+Service-API/obj/
