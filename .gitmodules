@@ -1,6 +1,3 @@
-[submodule "mw-intercom"]
-	path = mw-intercom
-	url = https://github.com/gittoey/mw-intercom.git
 [submodule "mw-shared"]
 	path = mw-shared
 	url = https://github.com/gittoey/mw-shared.git
